@@ -1,9 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="books-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome Books with ES6 Project</b></h3>
+  <h3><b>Task-TrackerApp</b></h3>
 
 </div>
 # 📗 Table of Contents
@@ -64,12 +63,6 @@ Awesome books with ES6 is a website built with modules files based on various fu
 - **contact information**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-You can view this project using this URL " https://zuwairanajma.github.io/awesome-books-with-ES6/"
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -80,7 +73,7 @@ Clone this repository to your desired folder:
 
 
 > Fork this repo
-> git clone git@github.com/Zuwairanajma/awesome-books-with-ES6.git
+> git clone git@github.com/taheerabdoul1/Task-TrackerApp.git
 
 ### Prerequisites
 
