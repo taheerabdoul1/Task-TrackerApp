@@ -124,13 +124,18 @@ You can deploy this project adding new lines of code to index.html and styles.cs
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author 1**
 
 👤 Zuwaira Sadiq
 - GitHub: [@Zuwairanajma](https://github.com/Zuwairanajma)
 - Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
 - LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
 
+👤 **Author 2**
+
+👤 Tahir Abdullahi Usman
+- GitHub: [@taheerabdoul1](https://github.com/taheerabdoul1)
+- Twitter: [@taheer_abdoul](https://twitter.com/taheer_abdoul)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
